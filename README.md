@@ -10,18 +10,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I'm currently working on **Web Development**
- 
- 🌱 I'm currently learning **Docker, Kubernetes, AWS**
-
- 💬 Ask me about **Node.js, React, MongoDB, SQL... or anything [here](https://github.com/yousefsaad47/yousefsaad47/issues)**
-
- ⚡ Fun fact **The first computer mouse was made of wood 🪚**
- 
- </div>
- 
 <div align="center"> 
   <a href="mailto:youssefsaad299@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
