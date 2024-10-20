@@ -17,10 +17,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:youssefsaad299@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=youssefsaad299@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:YousefSaad-47@outlook.com">
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=YousefSaad-47@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
   <a href="https://linkedin.com/in/yousefsaad47" target="_blank">
